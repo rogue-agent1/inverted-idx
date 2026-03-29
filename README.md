@@ -1,11 +1,11 @@
-# inverted_idx
+# inverted-idx
 
-inverted_idx - Inverted index for full-text search with TF-IDF ranking.
+Inverted index for full-text search with TF-IDF scoring.
 
 ## Usage
 
 ```bash
-python3 inverted_idx.py --test
+python3 inverted_idx.py test
 ```
 
 Zero dependencies. Python 3.8+.
